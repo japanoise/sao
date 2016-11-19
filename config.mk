@@ -1,5 +1,5 @@
 # dwm version
-VERSION = 6.1
+VERSION = git
 
 # Customize below to fit your system
 
