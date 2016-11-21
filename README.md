@@ -1,7 +1,8 @@
 # sao
 
 sao is a floating window manager forked from dwm, and heavily
-inspired by rio.
+inspired by rio. 
+[You can read more about the project on my website.](https://chameleon.kingdomofmysteries.xyz/articles/sao.html)
 
 ## Requirements
 
