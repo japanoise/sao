@@ -8,6 +8,10 @@ inspired by rio.
 
 In order to build sao you need the Xlib header files.
 
+By default, dmenu is bound to Mod+P and suckless' st is bound to
+Mod+Shift+Enter. If you don't have these, or prefer other programs,
+edit config.h.
+
 ## Installation
 
 Edit config.mk to match your local setup (sao is installed into
